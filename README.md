@@ -39,6 +39,6 @@ Employee-Management-System/
 - Followed modular programming to separate logic into different files
 - Used OOP principles to represent employee data as objects
 - Used SQLite for lightweight and persistent data storage
-- - Focused on clean code, modular design, and reusability.
+- Focused on clean code, modular design, and reusability.
 
   
